@@ -2,4 +2,4 @@
 ##Curso JS Escalab
 ====================
 **CookApp:**
-* LA aplicación para registrar las mejores recetas*
+*LA aplicación para registrar las mejores recetas*
