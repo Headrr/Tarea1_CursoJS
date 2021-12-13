@@ -1,5 +1,5 @@
-# Tarea 1#
-##Curso JS Escalab##
+# Tarea 1
+##Curso JS Escalab
 ====================
-**CookApp**
-*Aplicación para registrar las mejores recetas*
+**CookApp: **
+*LA aplicación para registrar las mejores recetas*
